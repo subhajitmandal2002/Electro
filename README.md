@@ -1,3 +1,3 @@
 # Electro
 
-Click to visit website : https://codewebduniya.github.io/Electro/
+Click to visit website : https://subhajitmandal2002.github.io/Electro/
